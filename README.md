@@ -45,10 +45,10 @@ To use the Weather App:
 2. Enter the name of the city for which you want to check the weather in the input box.
 3. Click the "Search" button.
 
-##API Reference:
+## API Reference:
 The Weather App uses the OpenWeatherMap API to retrieve weather data. You will need to obtain an API key from OpenWeatherMap and replace it in the JavaScript code.
 
-##Contributing:
+## Contributing:
 Contributions are welcome! To contribute to this project, follow these steps:
 
 1. Fork the repository.
