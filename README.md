@@ -14,11 +14,8 @@ The Weather App is a simple web application that allows users to check the curre
 - Handle invalid city names.
 
 ## Screenshots
-
-Working has been shown here. To view in full [click](https://ujjs.github.io/Weather-App/) here
- ![Your GIF](https://drive.google.com/uc?export=view&id=1jW40EdmFbtFnqz5oDjSTT3mdrGeCJ69l)
-
-
+ ### Working has been shown here. To view in full [click](https://ujjs.github.io/Weather-App/) here
+  <img src="https://drive.google.com/uc?export=view&id=1jW40EdmFbtFnqz5oDjSTT3mdrGeCJ69l" width="280" height="280">
 
 ## Prerequisites
 
