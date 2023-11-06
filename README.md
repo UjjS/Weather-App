@@ -15,7 +15,10 @@ The Weather App is a simple web application that allows users to check the curre
 
 ## Screenshots
 
-Working has been shown here. To view in full [click]() here
+Working has been shown here. To view in full [click](https://ujjs.github.io/Weather-App/) here
+![Image Description](https://drive.google.com/file/d/1jW40EdmFbtFnqz5oDjSTT3mdrGeCJ69l/)
+
+
 
 ## Prerequisites
 
